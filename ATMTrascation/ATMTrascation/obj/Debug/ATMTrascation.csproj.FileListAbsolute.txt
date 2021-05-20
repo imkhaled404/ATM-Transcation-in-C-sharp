@@ -1,0 +1,7 @@
+H:\C# pra\ATMTrascation\ATMTrascation\bin\Debug\ATMTrascation.exe.config
+H:\C# pra\ATMTrascation\ATMTrascation\bin\Debug\ATMTrascation.exe
+H:\C# pra\ATMTrascation\ATMTrascation\bin\Debug\ATMTrascation.pdb
+H:\C# pra\ATMTrascation\ATMTrascation\obj\Debug\ATMTrascation.csprojAssemblyReference.cache
+H:\C# pra\ATMTrascation\ATMTrascation\obj\Debug\ATMTrascation.csproj.CoreCompileInputs.cache
+H:\C# pra\ATMTrascation\ATMTrascation\obj\Debug\ATMTrascation.exe
+H:\C# pra\ATMTrascation\ATMTrascation\obj\Debug\ATMTrascation.pdb
